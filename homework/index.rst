@@ -7,7 +7,7 @@ HWWWW
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    hw2/hw2
