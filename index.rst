@@ -13,6 +13,7 @@ PIKAPIKA Diary
    about
    2020/index
    2021/index
+   homework2 <hw2.md>
 
 
 
