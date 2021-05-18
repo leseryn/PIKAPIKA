@@ -3,13 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PIKAPIKA Diary
+HWWWW
 ======================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
-   2020/index
-   2021/index
-   homework/index
+   hw2/hw2
